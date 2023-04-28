@@ -2,7 +2,7 @@
   "name": "mytodo-app-exercise",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ivamarsel.githuub.io/mytodo-app-exercise",
+  "homepage": "https://ivamarsel.github.io/mytodo-app-exercise",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
